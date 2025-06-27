@@ -12,14 +12,14 @@ lang: "en"
 # The output of the plugin can be used below, e.g., {{vars.MediumFollowersCountPlugin}}
 plugins:
   # Automatically fetch Medium follower count
-  - MediumFollowersCountPlugin:
-      username: zhgchgli
-  # Automatically fetch Github repo star count
-  - GithubRepoStarsCountPlugin:
-      - ZhgChgLi/ZMarkupParser
-      - ZhgChgLi/ZReviewTender
-      - ZhgChgLi/ZMediumToMarkdown
-      - ZhgChgLi/linkyee
+  # - MediumFollowersCountPlugin:
+  #     username: zhgchgli
+  # # Automatically fetch Github repo star count
+  # - GithubRepoStarsCountPlugin:
+  #     - ZhgChgLi/ZMarkupParser
+  #     - ZhgChgLi/ZReviewTender
+  #     - ZhgChgLi/ZMediumToMarkdown
+  #     - ZhgChgLi/linkyee
 
 # Google Analytics tracking id
 google_analytics_id:
@@ -31,11 +31,11 @@ title: "ZhgChgLi's Links"
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "@zhgchgli"
+name: "WatchOut! IIT Roorkee"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    IIT Roorkee's official student run media body
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
