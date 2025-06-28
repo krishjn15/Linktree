@@ -25,6 +25,13 @@ tagline: >-
 
 # List of links
 links:
+ - link:
+      icon: "fa-solid fa-pen"
+      text: "Internship  Diary : Chandramouli Koushik"
+      url: "https://drive.google.com/file/d/1sEn0ZVM3s9h6EN-b7mrM8NhtolriUWA3/view?usp=sharing"
+      alt: "Internship  Diary for Chandramouli Koushik"
+      title: "Internship  Diary for Chandramouli Koushik"
+      target: "_blank"
   - link:
       icon: "fa-solid fa-file"
       text: "Placement Diary : Aayushi Khandelwal"
