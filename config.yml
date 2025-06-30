@@ -27,6 +27,13 @@ tagline: >-
 links:
   - link:
       icon: "fa-solid fa-pen"
+      text: "Internship  Diary : Ayush Pradip"
+      url: "https://drive.google.com/file/d/1zVJydNmVj_QS0M_0frR3d69XApISGaYB/view?usp=sharing"
+      alt: "Internship  Diary for Ayush Pradip"
+      title: "Internship  Diary for Ayush Pradip"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-pen"
       text: "Internship  Diary : Chandramouli Koushik"
       url: "https://drive.google.com/file/d/1sEn0ZVM3s9h6EN-b7mrM8NhtolriUWA3/view?usp=sharing"
       alt: "Internship  Diary for Chandramouli Koushik"
